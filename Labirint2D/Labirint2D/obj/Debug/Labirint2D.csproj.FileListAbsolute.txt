@@ -1,0 +1,11 @@
+C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\bin\Debug\Labirint2D.exe.config
+C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\bin\Debug\Labirint2D.exe
+C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\bin\Debug\Labirint2D.pdb
+C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\obj\Debug\Labirint2D.csproj.AssemblyReference.cache
+C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\obj\Debug\Labirint2D.csproj.SuggestedBindingRedirects.cache
+C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\obj\Debug\Labirint2D.Properties.Resources.resources
+C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\obj\Debug\Labirint2D.csproj.GenerateResource.cache
+C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\obj\Debug\Labirint2D.csproj.CoreCompileInputs.cache
+C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\obj\Debug\Labirint2D.exe
+C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\obj\Debug\Labirint2D.pdb
+C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\obj\Debug\Labirint2D.FormMenu.resources
