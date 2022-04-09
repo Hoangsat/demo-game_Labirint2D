@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Labirint2D
@@ -34,13 +27,44 @@ namespace Labirint2D
                 BoxSound.Text = "Sound Off";
                 Sound.sound_off();
             }
-            Sound.play_key(); 
-            
+            Sound.play_key();
+
         }
 
         private void buttonStart_Click(object sender, EventArgs e)
         {
-            Sound.play_start();
+            start_level1();
         }
+
+        private void start_level1()
+        {
+
+
+            Sound.play_start();
+            FormLevel1 level1 = new FormLevel1();
+            DialogResult dr = level1.ShowDialog();
+            if (dr == DialogResult.OK)
+                start_level2();
+
+        }
+        private void start_level2()
+        {
+            Sound.play_start();
+            FormLevel2 level2 = new FormLevel2();
+            DialogResult dr = level2.ShowDialog();
+            if (dr == DialogResult.OK)
+            {
+                Sound.play_win();
+                MessageBox.Show("WINNN!!","Yeeess!!");
+            }
+
+        }
+
+
     }
-}
+
+
+        
+
+    }
+

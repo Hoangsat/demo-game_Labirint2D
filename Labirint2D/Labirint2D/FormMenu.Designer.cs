@@ -87,6 +87,7 @@
             this.MinimizeBox = false;
             this.Name = "FormMenu";
             this.Text = " Labirint 2D";
+            
             this.ResumeLayout(false);
             this.PerformLayout();
 

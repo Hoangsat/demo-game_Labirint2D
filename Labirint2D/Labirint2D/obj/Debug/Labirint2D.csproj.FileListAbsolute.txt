@@ -9,3 +9,5 @@ C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\obj\Debug\Labirint2D.cs
 C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\obj\Debug\Labirint2D.exe
 C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\obj\Debug\Labirint2D.pdb
 C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\obj\Debug\Labirint2D.FormMenu.resources
+C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\obj\Debug\Labirint2D.FormLevel1.resources
+C:\Users\HoangNout\Videos\labirint\Labirint2D\Labirint2D\obj\Debug\Labirint2D.FormLevel2.resources
